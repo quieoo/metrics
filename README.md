@@ -1,11 +1,11 @@
 # metrics
 java metrics
 
-##Usage
+## Usage
 ```
-<dependency>
-      <groupId>com.enbegGroup.metrics</groupId>
+    <dependency>
+      <groupId>com.enbedGroup.metrics</groupId>
       <artifactId>metrics</artifactId>
       <version>1.0-SNAPSHOT</version>
-</dependency>
+    </dependency>
 ```  
